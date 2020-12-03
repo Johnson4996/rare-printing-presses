@@ -1,31 +1,25 @@
 # Rare: The Publishing Platform for the Discerning Writer
+This team project is a publishing platform for users to allow them to share what they're thinking. Users are able to add their own posts, and react or comment on others posts.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features!
 
-## Utilities
+Rare has many features such as:
 
-In the `utils` directory, there is a **`HumanDate`** component that you can use anywhere in your application to display a human-friendly date instead of the unfriendly format that is stored in the API database.
+- ability to create, edit, and delete a post
+- create edit and delete comments on a post
+- react to other users posts
+- add tags and categorize your own post
+- see other users in the application via profiles
+- add pictures to a post and add a profile picture
+- admin abilities 
 
 
-## Available Scripts
+## Technology
+Rare is a full stack application built using React/JS for the front end and Django/Python on the back end
 
-In the project directory, you can run:
+## Installation
 
-### `yarn start`
+Currently Rare is not deployed
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
